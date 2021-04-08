@@ -26,7 +26,7 @@ function draw(){
     if(backgroundImg)
     background(backgroundImg);
 
-    Engine.update(engine);
+    //Engine.update(engine);
 
     // write code to display time in correct format here
     
